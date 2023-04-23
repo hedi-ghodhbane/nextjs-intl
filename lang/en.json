@@ -1,0 +1,12 @@
+{
+  "app": {
+    "title": "NextJS internalisation",
+    "locale_switcher": {
+      "en": "English",
+      "de": "German"
+    },
+    "main": {
+       "description": "This article is trying to explain how we can use react-intl with NextJS and use also Typescript to make our life easy!"
+    }
+  }
+}
